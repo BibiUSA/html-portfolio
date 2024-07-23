@@ -130,11 +130,12 @@
     background:linear-gradient(rgb(41, 42, 44),black);
     position: fixed;
     top:0;
-    width:100vw;
+    width:101%;
     height:5vh;
     display: flex;
     align-items: center;
     justify-content:flex-end;
+    margin-left: -1%;
 }
 
 #navigation{
