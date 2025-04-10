@@ -52,13 +52,16 @@
 #skills h2{
    margin: 2% auto;
 }
-#skills ul{
+#skill_list{
     text-align:left;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
     list-style:none;
     padding: 0 5%;;
+}
+
+.skill{
 }
 /* background animation
 #circle{
